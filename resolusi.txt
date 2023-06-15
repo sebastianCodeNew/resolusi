@@ -1,5 +1,5 @@
 Cita - Cita :
 - Data Analysis
 - Machine Learning
-- Data Science
 - Software Enginer
+- FullStack Developer
